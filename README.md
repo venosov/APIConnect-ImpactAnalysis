@@ -34,6 +34,13 @@ APICIA is a node.js application which interacts with the API Connect via the com
 
 ##Installation
 
+If you are installing node in Ubuntu:
+
+```
+sudo apt install npm
+sudo apt install nodejs-legacy
+```
+
 Once the repository has been cloned run npm install in the directoy with package.json
 
 ```
