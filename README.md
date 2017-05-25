@@ -50,6 +50,7 @@ npm install
 Then start the tool with
 
 ```
+ export LANG=en_EN.UTF-8
  node apicia.js
 ```
 
